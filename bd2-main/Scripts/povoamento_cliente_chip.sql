@@ -1,0 +1,11 @@
+insert into cliente_chip values ('92985114101', 10);
+insert into cliente_chip values ('47915215734', 7);
+insert into cliente_chip values ('79915121281', 20);
+insert into cliente_chip values ('69925217148', 111);
+insert into cliente_chip values ('86935115518', 13);
+insert into cliente_chip values ('81945120628', 9);
+insert into cliente_chip values ('31955228734', 27);
+insert into cliente_chip values ('96965222806', 31);
+insert into cliente_chip values ('61995125845', 51);
+insert into cliente_chip values ('96995211318', 5);
+insert into cliente_chip values ('65975125529', 93);

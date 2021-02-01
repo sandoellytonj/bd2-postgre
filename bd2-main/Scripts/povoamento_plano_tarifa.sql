@@ -1,0 +1,23 @@
+-------valor par = tarifa de roaming ------ impar valor excedido-------
+INSERT INTO plano_tarifa VALUES (1,1);
+INSERT INTO plano_tarifa VALUES (1,4);
+INSERT INTO plano_tarifa VALUES (2,1);
+INSERT INTO plano_tarifa VALUES (2,6);
+INSERT INTO plano_tarifa VALUES (3,3);
+INSERT INTO plano_tarifa VALUES (3,2);
+INSERT INTO plano_tarifa VALUES (4,1);
+INSERT INTO plano_tarifa VALUES (4,4);
+INSERT INTO plano_tarifa VALUES (5,3);
+INSERT INTO plano_tarifa VALUES (5,6);
+INSERT INTO plano_tarifa VALUES (6,1);
+INSERT INTO plano_tarifa VALUES (6,2);
+INSERT INTO plano_tarifa VALUES (7,5);
+INSERT INTO plano_tarifa VALUES (7,6);
+INSERT INTO plano_tarifa VALUES (8,5);
+INSERT INTO plano_tarifa VALUES (8,2);
+INSERT INTO plano_tarifa VALUES (9,3);
+INSERT INTO plano_tarifa VALUES (9,4);
+INSERT INTO plano_tarifa VALUES (10,5);
+INSERT INTO plano_tarifa VALUES (10,6);
+INSERT INTO plano_tarifa VALUES (11,1);
+INSERT INTO plano_tarifa VALUES (11,2)
